@@ -2,11 +2,11 @@
 main:
   # - title: "Quick-Start Guide"
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://github.com
+  - title: "MARKDOWN "
+    url: https://aptnow.github.io/price/layout-table-of-contents-sticky/
   - title: "학군순위"
     url: /year-archive/
   - title: "아파트순위"
     url: /collection-archive/
   - title: "특목고"
-    url: /sitemap/sitemap.xml
+    url: /sitemap.xml
