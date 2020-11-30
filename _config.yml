@@ -223,6 +223,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
