@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'https://aptprice.github.io'
-baseurl: '/'
+url: 'https://aptnow.github.io'
+baseurl: '/aptprice'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
