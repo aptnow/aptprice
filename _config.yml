@@ -1,6 +1,6 @@
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-locale                   : "en-US"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "ko-KR"
 title                    : "아파트 실거래"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
